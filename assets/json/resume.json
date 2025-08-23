@@ -1,0 +1,184 @@
+{
+  "basics": {
+    "name": "Aayush Singh",
+    "label": "Fourth Year Undergraduate",
+    "image": "",
+    "email": "aayushs22@iitk.ac.in",
+    "phone": "(+91)-7017334417",
+    "url": "https://www.linkedin.com/in/aayush-singh-ab7023208/",
+    "summary": "Fourth year undergraduate student pursuing a Double Major in Computer Science and Electrical Engineering at IIT Kanpur. Strong academic background with interests in algorithms, machine learning, and systems development.",
+    "location": {
+      "address": "IIT Kanpur",
+      "postalCode": "208016",
+      "city": "Kanpur",
+      "countryCode": "IN",
+      "region": "Uttar Pradesh"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "aayushs22",
+        "url": "https://github.com/aayushs22"
+      },
+      {
+        "network": "Codeforces",
+        "username": "maejik",
+        "url": "https://codeforces.com/profile/maejik"
+      },
+      {
+        "network": "CodeChef",
+        "username": "aayushs22",
+        "url": "https://www.codechef.com/users/aayushs22"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "IIT Kanpur - SURGE Internship",
+      "position": "Research Intern",
+      "url": "https://github.com/aayushs22/aayushs22-Exploring-Algorithmic-Collusion-by-Q-Learning-Models/tree/main",
+      "startDate": "2024-05-01",
+      "endDate": "2024-07-01",
+      "summary": "Explored algorithmic collusion in pricing models using Q-learning.",
+      "highlights": [
+        "Simulated pricing agents with Q-learning reinforcement learning",
+        "Modeled collusive behavior in simplified game-theoretic scenarios",
+        "Implemented experiments in Python for testing Prisoner’s Dilemma cases"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Technology, Kanpur",
+      "location": "Kanpur, India",
+      "url": "https://www.iitk.ac.in/",
+      "area": "Computer Science and Electrical Engineering",
+      "studyType": "B.Tech (Double Major)",
+      "startDate": "2022-07-01",
+      "endDate": "2027-05-01",
+      "score": "9.4/10.0"
+    },
+    {
+      "institution": "Kanha Makhan Millenium School, Mathura",
+      "studyType": "AISSCE (XII)",
+      "endDate": "2022",
+      "score": "98%"
+    },
+    {
+      "institution": "Sacred Heart Convent Hr. Sec. School, Mathura",
+      "studyType": "ICSE (X)",
+      "endDate": "2020",
+      "score": "95.4%"
+    }
+  ],
+  "awards": [
+    {
+      "title": "O.P. Jindal Engineering and Management Scholarship",
+      "date": "2023-10-01",
+      "awarder": "O.P. Jindal Group",
+      "summary": "Awarded to 100 engineering students across India."
+    },
+    {
+      "title": "Academic Excellence Award",
+      "date": "2024-01-01",
+      "awarder": "IIT Kanpur",
+      "summary": "For academic excellence in three consecutive years (2022, 2023, 2024)."
+    },
+    {
+      "title": "JEE Advanced AIR 1368",
+      "date": "2022-08-01",
+      "awarder": "NTA",
+      "summary": "All India Rank 1368 among 1.6 lakh shortlisted candidates."
+    },
+    {
+      "title": "JEE Mains AIR 279",
+      "date": "2022-05-01",
+      "awarder": "NTA",
+      "summary": "Top 0.03 percentile among 10.2 lakh candidates."
+    },
+    {
+      "title": "Indian Olympiad Qualifiers",
+      "date": "2022-01-01",
+      "awarder": "IAPT",
+      "summary": "Qualified in Physics, Chemistry, and Astronomy (IOQP, IOQC, IOQA 2022)."
+    },
+    {
+      "title": "KVPY AIR 344 (SX Fellowship)",
+      "date": "2021-12-01",
+      "awarder": "IISc",
+      "summary": "Awarded the SX fellowship in KVPY 2021."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Advanced",
+      "keywords": ["C", "C++", "Python", "JavaScript", "MATLAB", "Verilog HDL", "SQL", "MIPS Assembly"]
+    },
+    {
+      "name": "Libraries & Tools",
+      "level": "Intermediate",
+      "keywords": ["Git", "Bash", "LaTeX", "Markdown", "Numpy", "Matplotlib", "NodeJS", "Express.js", "React"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "IITK-MINI-MIPS",
+      "summary": "Designed a 32-bit single-cycle processor in Verilog supporting 50+ instructions.",
+      "highlights": ["Instruction encoding for R/I/J types", "ALU and FSM implementation", "Pipeline with fetch, decode, execute, branching"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-04-01",
+      "url": "https://github.com/aayushs22/IITK-MINI-MIPS"
+    },
+    {
+      "name": "TRACKit",
+      "summary": "Course management portal developed using Node.js, Express.js, SQLite, React.",
+      "highlights": ["Centralized academic information system", "Team collaboration with GitHub"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-04-01",
+      "url": "https://github.com/TRACKit-CS253/TRACKit/tree/main"
+    },
+    {
+      "name": "IITK-Flix",
+      "summary": "UDP-based chat app and Python mail client simulating email protocols.",
+      "highlights": ["Socket programming with UDP", "Mail client using TCP/SMTP"],
+      "startDate": "2023-12-01",
+      "endDate": "2024-01-01",
+      "url": "https://github.com/aayushs22/Webmail-less-Mailing-Designing-IITK-Flix.git"
+    },
+    {
+      "name": "Federated Learning",
+      "summary": "Implemented ML models (Random Forest, SVM) with PCA feature extraction.",
+      "highlights": ["Achieved 99.39% accuracy", "Dimensionality reduction with PCA"],
+      "startDate": "2024-08-01",
+      "endDate": "2024-11-01",
+      "url": "https://github.com/aayushs22/CS771-Federated-Learning/tree/main"
+    },
+    {
+      "name": "Continual Learning",
+      "summary": "Implemented ResNet50-based continual learning with distillation loss.",
+      "highlights": ["Reduced catastrophic forgetting", "Sequential dataset training"],
+      "startDate": "2024-08-01",
+      "endDate": "2024-11-01",
+      "url": "https://github.com/aayushs22/CS771-Continual-Learning"
+    },
+    {
+      "name": "Library Management System",
+      "summary": "Role-based system in C++ with OOP principles and file persistence.",
+      "highlights": ["OOP principles (inheritance, polymorphism, abstraction, encapsulation)", "File serialization for persistence"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-04-01",
+      "url": "https://github.com/aayushs22/Library-Management-System"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Competitive Programming",
+      "keywords": ["Codeforces", "CodeChef", "Algorithms", "Problem Solving"]
+    },
+    {
+      "name": "Machine Learning",
+      "keywords": ["Federated Learning", "Continual Learning", "Reinforcement Learning"]
+    }
+  ]
+}
